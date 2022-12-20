@@ -1,0 +1,20 @@
+{
+    "project_name": "DefaultProject",
+    "project_id": "{12A0757D-E777-4274-842E-3E4FA51F2B11}",
+    "origin": "The primary repo for DefaultProject goes here: i.e. http://www.mydomain.com",
+    "license": "What license DefaultProject uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "DefaultProject",
+    "summary": "A short description of DefaultProject.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "DefaultProject"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de-sdk",
+    "external_subdirectories": [
+        "Gem"
+    ],
+    "restricted": "DefaultProject"
+}
